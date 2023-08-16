@@ -1,16 +1,35 @@
-### Hi there 👋
+<h3 align="center">👋   Hello! Here is Saigonchain   👋 <br/> "Saigon Chain" </h3>
 
-<!--
-**saigonchain/saigonchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://twitter.com/saigonchain">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://youtube.com/@saigonchain">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://facebook.com/saigonblockchain">
+    <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://t.me/saigonchain">
+    <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+</div>
 
-Here are some ideas to get you started:
+---
+**About Me**
+- *Saigon Blockchain* was etablished in Ho Chi Minh City, Viet Nam. 
+- Work in the field Blockchain and Blockchain Technology.
+---
+- Base on:
+ - Blockchain: Ethereum Virtual Machine (Remix) / Solo Chain / Zk-EVM /...
+ - Front-end: ReactJs / NextJs / TypeScript / PHP / ...
+ - Back-end: Node.js /...
+ - Database: MongoDb / MySQL / PostgreSQL / ...
+ - Major Languages: **Substrate** / **Polkadot** / *Rust* (Update)
+---
+Where I live on the web:
+-----------------------
+-The public channel <a href="https://youtube.com/@saigonchain">Youtube</a>
+-----------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
