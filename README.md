@@ -22,11 +22,11 @@
 - Work in the field Blockchain and Blockchain Technology.
 ---
 - Base on:
- - Blockchain: Ethereum Virtual Machine (Remix) / Solo Chain / Zk-EVM /...
- - Front-end: ReactJs / NextJs / TypeScript / PHP / ...
- - Back-end: Node.js /...
- - Database: MongoDb / MySQL / PostgreSQL / ...
- - Major Languages: **Substrate** / **Polkadot** / *Rust* (Update)
+ - Blockchain: Solo Chain
+ - Front-end: NextJs
+ - Back-end: Node.js
+ - Database: MongoDb
+ - Core: **Substrate** / **Polkadot** / *Rust*
 ---
 Where I live on the web:
 -----------------------
